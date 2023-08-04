@@ -1,0 +1,52 @@
+.div-form {
+	max-width: 100%;
+	display: flex;
+	justify-content: center;
+	margin-top: 5px;
+}
+
+.my-form {
+	width: 50%;
+}
+
+.check-form {
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+}
+
+.checkbox-item {}
+
+.checkbox {
+	margin-left: 10px;
+}
+
+.discription {
+	margin-left: 10px;
+	max-width: 90%;
+}
+
+.option {
+	display: none;
+}
+
+.buttons {
+	margin-bottom: 10px;
+}
+
+.btn-discr {
+	font-size: 40px;
+	display: flex;
+	margin-bottom: 1%;
+}
+
+.item {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 20px;
+	background: #8FBC8F;
+	margin-bottom: 5px;
+	height: 50px;
+	font-size: 20px;
+}
